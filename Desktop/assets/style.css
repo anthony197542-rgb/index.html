@@ -275,6 +275,10 @@ span[data-v-48b363cf] {
         display: none
     }
 }
+.top--wrapper {
+    display: flex;
+    flex-direction: column;
+}
 
 .navbar {
     height: 165px;
@@ -330,6 +334,7 @@ span[data-v-48b363cf] {
     height: 40px;
     width: 150px;
 }
+
 
 a.btn-contact {
     display: flex;
